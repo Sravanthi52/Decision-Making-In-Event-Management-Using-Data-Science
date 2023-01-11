@@ -1,0 +1,398 @@
+Borough,LocationType,day,time,turnoutStatus
+Brooklyn,Park,Fri,20:00,less than avg
+Staten Island,Park,Fri,19:00,less than avg
+Staten Island,Park,Sat,20:00,less than avg
+Brooklyn,Park,Sat,20:00,less than avg
+Manhattan,Recreation Center,Thu,20:15,less than avg
+Staten Island,Park,Fri,20:00,less than avg
+Brooklyn,Park,Fri,20:00,less than avg
+Brooklyn,Park,Fri,20:00,less than avg
+Manhattan,Park,Fri,20:25,more than avg
+Bronx,Park,Sat,20:00,less than avg
+Staten Island,Recreation Center,Fri,0:00,less than avg
+Bronx,Park,Fri,20:00,more than avg
+Bronx,Playground,Sat,20:00,less than avg
+Queens,Park,Sat,20:00,less than avg
+Brooklyn,Park,Sun,20:00,less than avg
+Brooklyn,Park,Sun,20:00,less than avg
+Manhattan,Playground,Wed,18:00,less than avg
+Manhattan,Playground,Wed,20:30,less than avg
+Manhattan,Park,Thu,20:30,less than avg
+Queens,Playground,Fri,20:00,less than avg
+Staten Island,Park,Fri,20:10,less than avg
+Brooklyn,Park,Fri,20:00,less than avg
+Bronx,Park,Fri,20:15,less than avg
+Manhattan,Park,Fri,20:30,less than avg
+Manhattan,Park,Fri,20:30,less than avg
+Brooklyn,Park,Fri,20:00,more than avg
+Manhattan,Park,Fri,20:00,more than avg
+Brooklyn,Playground,Sat,20:00,less than avg
+Bronx,Park,Sat,20:15,less than avg
+Manhattan,Playground,Sat,20:30,less than avg
+Manhattan,Other,Sat,20:30,less than avg
+Bronx,Park,Sat,20:15,less than avg
+Queens,Playground,Sat,20:00,less than avg
+Bronx,Park,Sat,20:00,more than avg
+Manhattan,Park,Wed,0:00,less than avg
+Manhattan,Park,Thu,18:00,less than avg
+Brooklyn,Other,Fri,20:00,less than avg
+Bronx,Playground,Fri,20:30,less than avg
+Manhattan,Park,Fri,18:00,less than avg
+Staten Island,Park,Fri,20:30,less than avg
+Brooklyn,Park,Fri,20:00,more than avg
+Queens,Other,Fri,20:00,more than avg
+Bronx,Park,Sat,20:30,less than avg
+Bronx,Park,Sat,20:30,less than avg
+Manhattan,Playground,Sat,20:30,more than avg
+Brooklyn,Park,Sun,20:00,less than avg
+Manhattan,Park,Tue,20:30,less than avg
+Queens,Park,Wed,20:00,less than avg
+Manhattan,Park,Wed,0:00,less than avg
+Brooklyn,Playground,Wed,20:00,more than avg
+Manhattan,Recreation Center,Thu,0:00,less than avg
+Manhattan,Playground,Thu,20:00,less than avg
+Staten Island,Playground,Fri,0:00,less than avg
+Staten Island,Park,Fri,0:00,less than avg
+Manhattan,Park,Fri,20:00,less than avg
+Brooklyn,Other,Fri,20:00,less than avg
+Queens,Playground,Fri,20:30,less than avg
+Queens,Playground,Fri,20:00,more than avg
+Brooklyn,Park,Fri,20:00,more than avg
+Bronx,Park,Fri,20:30,more than avg
+Manhattan,Park,Sat,20:00,less than avg
+Bronx,Park,Sat,20:30,less than avg
+Queens,Park,Sat,20:30,less than avg
+Staten Island,Park,Sat,0:00,more than avg
+Manhattan,Park,Sat,0:00,more than avg
+Queens,Playground,Sun,20:00,less than avg
+Manhattan,Playground,Tue,20:00,less than avg
+Bronx,Playground,Wed,20:30,less than avg
+Manhattan,Park,Wed,20:00,less than avg
+Queens,Playground,Thu,20:30,less than avg
+Manhattan,Park,Thu,20:00,less than avg
+Bronx,Playground,Thu,20:30,less than avg
+Manhattan,Recreation Center,Thu,20:30,less than avg
+Staten Island,Other,Fri,20:30,less than avg
+Queens,Playground,Fri,20:30,less than avg
+Brooklyn,Park,Fri,20:00,less than avg
+Staten Island,Park,Fri,20:30,less than avg
+Manhattan,Park,Fri,20:00,less than avg
+Brooklyn,Other,Fri,20:00,more than avg
+Bronx,Park,Fri,20:30,more than avg
+Staten Island,Park,Sat,21:00,less than avg
+Brooklyn,Park,Sat,20:00,less than avg
+Queens,Playground,Sat,20:30,less than avg
+Queens,Park,Sat,20:00,less than avg
+Manhattan,Playground,Sat,20:00,less than avg
+Bronx,Playground,Sat,20:30,less than avg
+Staten Island,Park,Sat,21:00,more than avg
+Brooklyn,Playground,Sun,21:00,less than avg
+Bronx,Park,Mon,20:30,less than avg
+Bronx,Recreation Center,Tue,20:30,less than avg
+Manhattan,Playground,Tue,20:00,less than avg
+Bronx,Park,Wed,20:30,less than avg
+Bronx,Playground,Wed,20:30,less than avg
+Bronx,Park,Thu,20:30,less than avg
+Manhattan,Playground,Thu,18:00,less than avg
+Manhattan,Recreation Center,Thu,18:00,less than avg
+Manhattan,Recreation Center,Thu,20:30,more than avg
+Bronx,Park,Thu,20:30,more than avg
+Manhattan,Recreation Center,Thu,20:30,more than avg
+Manhattan,Playground,Thu,18:00,more than avg
+Manhattan,Park,Fri,21:00,less than avg
+Queens,Park,Fri,20:30,less than avg
+Bronx,Recreation Center,Fri,20:30,less than avg
+Manhattan,Park,Fri,18:00,less than avg
+Queens,Other,Fri,20:30,less than avg
+Bronx,Park,Fri,20:30,more than avg
+Queens,Park,Fri,20:00,more than avg
+Brooklyn,Park,Fri,21:00,more than avg
+Brooklyn,Park,Sat,20:00,less than avg
+Bronx,Park,Sat,20:30,less than avg
+Queens,Other,Sat,20:30,more than avg
+Brooklyn,Playground,Sun,20:00,less than avg
+Brooklyn,Park,Sun,20:00,less than avg
+Bronx,Park,Mon,20:30,less than avg
+Bronx,Recreation Center,Tue,20:30,less than avg
+Queens,Playground,Tue,20:30,less than avg
+Manhattan,Playground,Tue,18:00,more than avg
+Queens,Park,Wed,20:30,less than avg
+Manhattan,Park,Wed,18:00,less than avg
+Bronx,Recreation Center,Wed,20:30,less than avg
+Manhattan,Park,Wed,18:00,more than avg
+Bronx,Park,Wed,20:30,more than avg
+Manhattan,Park,Thu,20:00,less than avg
+Staten Island,Recreation Center,Thu,21:00,less than avg
+Manhattan,Recreation Center,Thu,19:00,less than avg
+Brooklyn,Park,Thu,20:00,less than avg
+Bronx,Park,Thu,20:30,less than avg
+Manhattan,Recreation Center,Thu,19:00,more than avg
+Queens,Playground,Thu,20:30,more than avg
+Bronx,Park,Fri,20:30,less than avg
+Manhattan,Park,Fri,20:00,less than avg
+Bronx,Park,Fri,20:30,less than avg
+Staten Island,Park,Fri,21:00,less than avg
+Queens,Playground,Fri,20:30,more than avg
+Brooklyn,Park,Fri,0:00,more than avg
+Brooklyn,Park,Fri,20:00,more than avg
+Staten Island,Park,Sat,21:00,less than avg
+Bronx,Park,Sat,20:30,less than avg
+Brooklyn,Park,Sat,20:00,less than avg
+Bronx,Park,Sat,20:30,less than avg
+Queens,Other,Sat,20:30,more than avg
+Staten Island,Park,Sat,21:00,more than avg
+Brooklyn,Playground,Sat,20:00,more than avg
+Bronx,Playground,Mon,20:30,less than avg
+Brooklyn,Park,Mon,20:00,less than avg
+Queens,Park,Tue,20:30,less than avg
+Manhattan,Park,Tue,20:00,more than avg
+Brooklyn,Park,Thu,20:00,less than avg
+Staten Island,Park,Thu,0:00,less than avg
+Bronx,Park,Thu,20:30,less than avg
+Queens,Park,Thu,20:30,more than avg
+Manhattan,Recreation Center,Thu,20:30,more than avg
+Manhattan,Park,Thu,20:00,more than avg
+Bronx,Recreation Center,Fri,20:30,less than avg
+Manhattan,Park,Fri,20:00,less than avg
+Staten Island,Park,Fri,21:00,less than avg
+Brooklyn,Park,Fri,20:00,less than avg
+Bronx,Park,Fri,20:30,more than avg
+Bronx,Park,Sat,20:30,less than avg
+Queens,Park,Sat,20:30,less than avg
+Manhattan,Park,Sat,20:00,less than avg
+Staten Island,Park,Sat,21:00,more than avg
+Staten Island,Park,Sat,21:00,more than avg
+Queens,Playground,Sat,20:30,more than avg
+Brooklyn,Park,Sat,21:00,more than avg
+Manhattan,Park,Sun,20:00,more than avg
+Brooklyn,Park,Mon,0:00,less than avg
+Brooklyn,Playground,Tue,20:00,less than avg
+Manhattan,Playground,Tue,20:00,less than avg
+Bronx,Recreation Center,Tue,20:30,more than avg
+Staten Island,Park,Tue,21:00,more than avg
+Staten Island,Other,Wed,21:00,less than avg
+Bronx,Playground,Wed,20:30,less than avg
+Manhattan,Park,Wed,20:00,less than avg
+Staten Island,Recreation Center,Wed,21:00,less than avg
+Bronx,Park,Wed,20:30,less than avg
+Queens,Playground,Wed,20:30,less than avg
+Brooklyn,Park,Wed,20:00,less than avg
+Staten Island,Park,Thu,21:00,less than avg
+Queens,Recreation Center,Thu,21:00,less than avg
+Manhattan,Playground,Thu,20:00,less than avg
+Brooklyn,Playground,Thu,20:00,less than avg
+Bronx,Recreation Center,Thu,20:30,more than avg
+Staten Island,Park,Fri,21:00,less than avg
+Manhattan,Park,Fri,20:00,less than avg
+Brooklyn,Playground,Fri,20:00,less than avg
+Staten Island,Park,Fri,21:00,less than avg
+Queens,Park,Fri,21:00,less than avg
+Bronx,Park,Fri,20:30,less than avg
+Manhattan,Playground,Sat,18:00,less than avg
+Staten Island,Other,Sat,21:00,less than avg
+Staten Island,Park,Sat,21:00,less than avg
+Brooklyn,Park,Sat,20:00,less than avg
+Bronx,Playground,Sat,20:30,more than avg
+Brooklyn,Playground,Mon,20:00,less than avg
+Manhattan,Park,Wed,20:00,less than avg
+Bronx,Park,Wed,20:30,less than avg
+Bronx,Park,Wed,20:30,less than avg
+Queens,Park,Wed,20:30,less than avg
+Brooklyn,Park,Wed,20:00,less than avg
+Staten Island,Park,Thu,20:30,less than avg
+Staten Island,Park,Thu,0:00,less than avg
+Brooklyn,Park,Thu,20:00,less than avg
+Manhattan,Recreation Center,Thu,20:30,less than avg
+Manhattan,Playground,Thu,20:00,less than avg
+Queens,Park,Thu,20:30,less than avg
+Bronx,Other,Thu,20:30,more than avg
+Queens,Other,Fri,20:30,less than avg
+Bronx,Park,Fri,20:30,less than avg
+Staten Island,Park,Fri,21:00,less than avg
+Manhattan,Playground,Fri,20:00,less than avg
+Staten Island,Recreation Center,Fri,21:00,less than avg
+Bronx,Playground,Fri,20:30,less than avg
+Staten Island,Park,Fri,21:00,more than avg
+Bronx,Park,Sat,20:30,less than avg
+Queens,Park,Mon,20:30,less than avg
+Staten Island,Park,Tue,20:30,less than avg
+Bronx,Park,Tue,20:30,less than avg
+Manhattan,Playground,Tue,20:00,less than avg
+Bronx,Recreation Center,Tue,20:30,more than avg
+Bronx,Park,Wed,20:30,less than avg
+Staten Island,Recreation Center,Wed,20:30,less than avg
+Manhattan,Recreation Center,Thu,20:30,less than avg
+Brooklyn,Park,Thu,20:00,less than avg
+Staten Island,Park,Thu,20:30,less than avg
+Manhattan,Recreation Center,Thu,20:30,less than avg
+Manhattan,Playground,Thu,20:00,less than avg
+Bronx,Recreation Center,Thu,20:15,less than avg
+Queens,Park,Thu,20:30,more than avg
+Bronx,Playground,Fri,20:30,less than avg
+Bronx,Park,Fri,20:30,less than avg
+Queens,Playground,Fri,20:30,less than avg
+Staten Island,Park,Fri,20:30,less than avg
+Staten Island,Other,Sat,20:30,less than avg
+Brooklyn,Park,Sat,20:00,less than avg
+Manhattan,Playground,Sat,20:00,less than avg
+Staten Island,Park,Sat,20:30,less than avg
+Queens,Park,Sat,20:30,less than avg
+Bronx,Park,Sat,20:30,less than avg
+Manhattan,Playground,Sat,20:00,more than avg
+Queens,Other,Sun,20:30,less than avg
+Brooklyn,Playground,Mon,20:00,less than avg
+Queens,Park,Mon,20:30,less than avg
+Manhattan,Playground,Tue,20:00,less than avg
+Bronx,Recreation Center,Tue,20:15,less than avg
+Manhattan,Playground,Tue,20:00,less than avg
+Bronx,Recreation Center,Tue,11:00,less than avg
+Staten Island,Park,Tue,20:30,less than avg
+Queens,Park,Tue,8:30,less than avg
+Queens,Park,Wed,20:30,less than avg
+Manhattan,Park,Wed,18:00,less than avg
+Bronx,Playground,Wed,20:15,less than avg
+Staten Island,Recreation Center,Wed,20:30,less than avg
+Manhattan,Park,Wed,18:00,less than avg
+Brooklyn,Park,Thu,20:00,less than avg
+Brooklyn,Park,Thu,20:00,less than avg
+Bronx,Park,Thu,20:15,less than avg
+Staten Island,Recreation Center,Fri,20:30,less than avg
+Bronx,Recreation Center,Fri,20:15,less than avg
+Queens,Park,Fri,20:30,less than avg
+Manhattan,Recreation Center,Fri,18:00,less than avg
+Bronx,Park,Fri,20:15,less than avg
+Manhattan,Park,Sat,18:00,less than avg
+Staten Island,Park,Sat,0:00,less than avg
+Staten Island,Park,Sat,21:00,less than avg
+Bronx,Park,Sat,20:15,less than avg
+Queens,Playground,Sat,20:30,less than avg
+Brooklyn,Other,Sun,20:00,more than avg
+Queens,Park,Mon,20:30,more than avg
+Bronx,Recreation Center,Tue,20:15,less than avg
+Manhattan,Park,Wed,20:30,less than avg
+Bronx,Park,Wed,20:15,less than avg
+Brooklyn,Park,Wed,20:00,more than avg
+Queens,Park,Thu,20:30,less than avg
+Staten Island,Park,Thu,21:00,less than avg
+Manhattan,Playground,Thu,18:00,less than avg
+Bronx,Recreation Center,Thu,20:15,more than avg
+Brooklyn,Park,Thu,20:00,more than avg
+Manhattan,Playground,Thu,20:30,more than avg
+Staten Island,Park,Fri,0:00,less than avg
+Staten Island,Park,Fri,20:30,less than avg
+Manhattan,Playground,Fri,6:00,less than avg
+Brooklyn,Park,Fri,20:00,less than avg
+Manhattan,Recreation Center,Fri,18:00,less than avg
+Queens,Other,Fri,20:30,less than avg
+Manhattan,Recreation Center,Fri,0:00,more than avg
+Bronx,Park,Fri,20:00,more than avg
+Manhattan,Park,Fri,20:30,more than avg
+Bronx,Park,Sat,20:00,less than avg
+Queens,Other,Sat,20:30,less than avg
+Queens,Other,Sun,20:30,less than avg
+Brooklyn,Playground,Sun,20:00,less than avg
+Bronx,Playground,Mon,20:00,less than avg
+Queens,Park,Mon,20:30,less than avg
+Queens,Park,Tue,20:30,less than avg
+Manhattan,Playground,Tue,18:00,less than avg
+Brooklyn,Playground,Wed,20:00,less than avg
+Queens,Park,Wed,20:30,less than avg
+Manhattan,Playground,Wed,18:00,less than avg
+Staten Island,Recreation Center,Wed,20:30,less than avg
+Bronx,Park,Wed,20:00,less than avg
+Bronx,Other,Thu,20:00,less than avg
+Manhattan,Playground,Thu,18:00,less than avg
+Brooklyn,Playground,Thu,20:00,more than avg
+Staten Island,Park,Fri,20:30,less than avg
+Staten Island,Recreation Center,Fri,20:00,less than avg
+Queens,Playground,Fri,20:30,less than avg
+Bronx,Park,Fri,20:00,less than avg
+Bronx,Park,Fri,20:00,less than avg
+Brooklyn,Playground,Fri,20:00,less than avg
+Bronx,Park,Sat,20:00,less than avg
+Queens,Park,Sat,20:30,less than avg
+Queens,Other,Sun,20:30,less than avg
+Manhattan,Park,Sun,20:00,less than avg
+Bronx,Park,Mon,20:00,less than avg
+Queens,Park,Mon,20:30,less than avg
+Brooklyn,Park,Tue,20:00,less than avg
+Queens,Recreation Center,Tue,20:30,less than avg
+Manhattan,Playground,Tue,20:00,less than avg
+Staten Island,Park,Tue,0:00,less than avg
+Bronx,Recreation Center,Tue,20:00,less than avg
+Manhattan,Playground,Wed,20:00,less than avg
+Brooklyn,Playground,Wed,0:00,less than avg
+Bronx,Park,Wed,20:00,less than avg
+Queens,Park,Wed,20:30,less than avg
+Staten Island,Recreation Center,Wed,20:30,more than avg
+Manhattan,Playground,Thu,20:00,less than avg
+Brooklyn,Park,Thu,20:00,less than avg
+Staten Island,Park,Thu,20:00,less than avg
+Manhattan,Recreation Center,Fri,20:00,less than avg
+Bronx,Other,Fri,20:00,less than avg
+Manhattan,Playground,Fri,20:00,more than avg
+Staten Island,Park,Fri,20:00,more than avg
+Queens,Park,Fri,20:30,more than avg
+Brooklyn,Park,Fri,20:00,more than avg
+Staten Island,Park,Fri,20:00,more than avg
+Bronx,Park,Sat,20:00,less than avg
+Manhattan,Playground,Sat,18:00,less than avg
+Staten Island,Park,Sat,0:00,less than avg
+Brooklyn,Park,Sat,20:00,less than avg
+Queens,Park,Sat,20:30,less than avg
+Staten Island,Park,Sat,20:00,less than avg
+Staten Island,Park,Sat,20:00,less than avg
+Brooklyn,Park,Sun,20:00,less than avg
+Queens,Other,Sun,20:30,more than avg
+Bronx,Playground,Mon,20:00,less than avg
+Brooklyn,Playground,Mon,20:00,less than avg
+Queens,Park,Mon,20:30,less than avg
+Queens,Park,Tue,20:30,less than avg
+Manhattan,Playground,Tue,20:00,less than avg
+Brooklyn,Park,Tue,20:00,less than avg
+Manhattan,Park,Wed,20:00,less than avg
+Staten Island,Recreation Center,Wed,20:00,less than avg
+Brooklyn,Playground,Wed,20:00,less than avg
+Staten Island,Recreation Center,Wed,20:00,less than avg
+Queens,Park,Wed,20:30,less than avg
+Staten Island,Park,Thu,20:00,less than avg
+Bronx,Playground,Thu,19:30,less than avg
+Manhattan,Park,Thu,20:00,more than avg
+Staten Island,Park,Fri,20:00,less than avg
+Bronx,Recreation Center,Fri,19:30,less than avg
+Queens,Park,Fri,20:30,less than avg
+Manhattan,Park,Fri,18:00,less than avg
+Brooklyn,Park,Fri,20:00,less than avg
+Queens,Playground,Sat,20:30,less than avg
+Staten Island,Recreation Center,Sat,12:30,less than avg
+Bronx,Park,Sat,19:30,less than avg
+Manhattan,Playground,Sat,20:00,more than avg
+Queens,Playground,Sun,20:30,less than avg
+Manhattan,Park,Tue,19:30,less than avg
+Manhattan,Playground,Wed,19:30,less than avg
+Manhattan,Playground,Wed,19:30,less than avg
+Bronx,Playground,Thu,19:30,less than avg
+Queens,Other,Thu,20:30,less than avg
+Brooklyn,Park,Fri,20:00,less than avg
+Manhattan,Park,Fri,19:30,less than avg
+Manhattan,Recreation Center,Fri,19:30,less than avg
+Bronx,Park,Fri,19:30,less than avg
+Queens,Playground,Fri,20:30,more than avg
+Bronx,Playground,Sat,19:30,less than avg
+Bronx,Park,Sat,19:30,less than avg
+Manhattan,Park,Sat,19:30,less than avg
+Queens,Playground,Sat,20:30,less than avg
+Queens,Park,Sun,20:30,less than avg
+Queens,Park,Mon,20:30,less than avg
+Manhattan,Recreation Center,Wed,19:30,less than avg
+Manhattan,Playground,Thu,19:30,less than avg
+Bronx,Other,Thu,19:15,more than avg
+Queens,Park,Fri,20:00,more than avg
+Bronx,Park,Fri,19:00,more than avg
+Manhattan,Playground,Sat,19:30,less than avg
+Queens,Playground,Sat,20:00,more than avg
+Manhattan,Playground,Wed,19:30,less than avg
+Manhattan,Playground,Thu,19:30,less than avg
+Bronx,Playground,Thu,19:00,less than avg
+Manhattan,Playground,Fri,19:30,less than avg
+Manhattan,Playground,Sat,19:30,more than avg

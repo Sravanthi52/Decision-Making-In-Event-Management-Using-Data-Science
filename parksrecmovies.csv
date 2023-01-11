@@ -1,0 +1,398 @@
+DateandTime,Borough,LocationType,Location,Event Name,Attendance,day,time,turnoutStatus,turnoutStatus123
+5/4/18,Brooklyn,Park,Sunset Park,Movies Under the Stars,93,Fri,20:00,less than avg,0
+5/4/18,Staten Island,Park,Father Macris Park,Movies Under the Stars: Angels In the Outfield,95,Fri,19:00,less than avg,0
+5/5/18,Staten Island,Park,Clove Lakes Park,Movies Under the Stars: Coco,61,Sat,20:00,less than avg,0
+5/5/18,Brooklyn,Park,Maria Hernandez Park,"Movies Under the Stars "" Coco""",95,Sat,20:00,less than avg,0
+5/10/18,Manhattan,Recreation Center,Highbridge Recreation Center,Movies Under the Stars: Selena,35,Thu,20:15,less than avg,0
+5/11/18,Staten Island,Park,Cedar Grove Park,Movies Under the Stars: Sing,0,Fri,20:00,less than avg,0
+5/11/18,Brooklyn,Park,Owl's Head Park,"Movies Under the Stars ""AOBFF"" Short Independent Films",15,Fri,20:00,less than avg,0
+5/11/18,Brooklyn,Park,McCarren Park,"Movies Under the Stars ""Lady Bird""",61,Fri,20:00,less than avg,0
+5/11/18,Manhattan,Park,Carl Schurz Park,Movies Under the Stars: Ferdinand,400,Fri,20:25,more than avg,1
+5/12/18,Bronx,Park,Van Cortlandt Park,Movies Under The Stars: Coco,52,Sat,20:00,less than avg,0
+5/18/18,Staten Island,Recreation Center,Ocean Breeze Track & Field Athletic Complex,Movies Under the Stars: The Lego Movie,95,Fri,0:00,less than avg,0
+5/18/18,Bronx,Park,St. James Park,Movies Under The Stars: Coco,175,Fri,20:00,more than avg,1
+5/19/18,Bronx,Playground,Claremont Park,Movies Under The Stars: Up,52,Sat,20:00,less than avg,0
+5/19/18,Queens,Park,Addabbo Park ( Tudor Field ),MUTS - Zootopia,89,Sat,20:00,less than avg,0
+5/20/18,Brooklyn,Park,Coffey Park,Movies Under the Stars : Jumanji (2017),16,Sun,20:00,less than avg,0
+5/20/18,Brooklyn,Park,Fort Greene Park,Movies Under the Stars : Sparkle,95,Sun,20:00,less than avg,0
+5/23/18,Manhattan,Playground,Happy Warrior Playground,Movies Under the Stars - Wonder,16,Wed,18:00,less than avg,0
+5/23/18,Manhattan,Playground,Happy Warrior Playground,Movies Under the Stars: Wonder,16,Wed,20:30,less than avg,0
+5/24/18,Manhattan,Park,Sara D. Roosevelt Park,Movies Under the Stars: The House,95,Thu,20:30,less than avg,0
+5/25/18,Queens,Playground,Frank D. O'Connor Playground,MUTS - COCO,15,Fri,20:00,less than avg,0
+5/25/18,Staten Island,Park,Wolfe's Pond Park,Movies Under the Stars: Despicable Me 2,35,Fri,20:10,less than avg,0
+5/25/18,Brooklyn,Park,Bensonhurst Park,Movies Under the Stars : Jumanji (2017),35,Fri,20:00,less than avg,0
+5/25/18,Bronx,Park,Williamsbridge Oval,Movies Under The Stars: Toy Story,52,Fri,20:15,less than avg,0
+5/25/18,Manhattan,Park,Marcus Garvey Park,Movies Under the Stars: Lilies of the Field,100,Fri,20:30,less than avg,0
+5/25/18,Manhattan,Park,Marcus Garvey Park,Movies Under the Stars: Lilies of the Field,100,Fri,20:30,less than avg,0
+5/25/18,Brooklyn,Park,Prospect Park,Movies Under the Stars : Festival Friday The Seventh Seal,120,Fri,20:00,more than avg,1
+5/25/18,Manhattan,Park,Randall's Island Park,Movies Under the Stars : Moana,1000,Fri,20:00,more than avg,1
+5/26/18,Brooklyn,Playground,P.S. 249,Movies Under the Stars : Jumanji (2017)),0,Sat,20:00,less than avg,0
+5/26/18,Bronx,Park,Crotona Park,Movies Under The Stars: Coco,0,Sat,20:15,less than avg,0
+5/26/18,Manhattan,Playground,Sol Bloom Playground,Movies Under the Stars: Spiderman Homecoming,15,Sat,20:30,less than avg,0
+5/26/18,Manhattan,Other,William F. Passannante Ballfield,Movies Under the Stars,16,Sat,20:30,less than avg,0
+5/26/18,Bronx,Park,Crotona Park,Movies Under The Stars: Coco,72,Sat,20:15,less than avg,0
+5/26/18,Queens,Playground,Gorman,MUTS - Finding Dory,94,Sat,20:00,less than avg,0
+5/26/18,Bronx,Park,Franz Sigel Park,Movies Under The Stars: Jumanji: Welcome to the Jungle,146,Sat,20:00,more than avg,1
+5/30/18,Manhattan,Park,Seward Park,Movies Under the stars: Ghost in the Shell,58,Wed,0:00,less than avg,0
+5/31/18,Manhattan,Park,St. Vartan Park,Movies Under the Stars - Coco,35,Thu,18:00,less than avg,0
+6/1/18,Brooklyn,Other,McCarren Pool Deck,Movies Under the Stars : Stonewall,35,Fri,20:00,less than avg,0
+6/1/18,Bronx,Playground,Burns Playground,Movies Under The Stars: The Nut Job 2,94,Fri,20:30,less than avg,0
+6/1/18,Manhattan,Park,Marcus Garvey Park,Movies Under the Stars & Wakanda Fashion Show: Black Panther,95,Fri,18:00,less than avg,0
+6/1/18,Staten Island,Park,Willowbrook Park,Movies Under the Stars: Thor Ragnarok,100,Fri,20:30,less than avg,0
+6/1/18,Brooklyn,Park,Leif Ericson Park,Movies Under the Stars : Lego Ninjago Movie,137,Fri,20:00,more than avg,1
+6/1/18,Queens,Other,Rory Staunton Field,MUTS - Paddington,1400,Fri,20:00,more than avg,1
+6/2/18,Bronx,Park,Virginia Park,Movies Under The Stars: Black Panther,93,Sat,20:30,less than avg,0
+6/2/18,Bronx,Park,Van Cortlandt Park/ Memorial Grove,Movies Under The Stars: Justice League,93,Sat,20:30,less than avg,0
+6/2/18,Manhattan,Playground,Samuel Seabury Playground,Movies Under the Stars: Deep,175,Sat,20:30,more than avg,1
+6/3/18,Brooklyn,Park,Sunset Park,Movies Under the Stars : ABOFF Short Films,94,Sun,20:00,less than avg,0
+6/5/18,Manhattan,Park,St. Nicholas Park,Movies Under the Stars: Lady Bird,54,Tue,20:30,less than avg,0
+6/6/18,Queens,Park,Yellowstone Park,MUTS - 101 Dalmations(1961 Version ),15,Wed,20:00,less than avg,0
+6/6/18,Manhattan,Park,De Witt Clinton Park,Movies Under the Stars: Boss Baby,93,Wed,0:00,less than avg,0
+6/6/18,Brooklyn,Playground,Crispus Attucks Playground,Movies Under the Stars : Web Series Wednesdays,225,Wed,20:00,more than avg,1
+6/7/18,Manhattan,Recreation Center,Tony Dapolito Recreation Center,Movie Under the Stars: Moonlight,89,Thu,0:00,less than avg,0
+6/7/18,Manhattan,Playground,Corporal John A. Seravalli Playground,"Movies Under the Stars: Three Billboards Outside Ebbing, Missouri",100,Thu,20:00,less than avg,0
+6/8/18,Staten Island,Playground,Allen F Kivlehan Playground,Movies Under the Stars: Moana,0,Fri,0:00,less than avg,0
+6/8/18,Staten Island,Park,Clove Lakes Park,Movies Under the Stars: Fences,15,Fri,0:00,less than avg,0
+6/8/18,Manhattan,Park,Columbus Park,Movies Under the Stars: MULAN,29,Fri,20:00,less than avg,0
+6/8/18,Brooklyn,Other,McCarren Pool Deck,Movies Under the Stars : Saturday Church,50,Fri,20:00,less than avg,0
+6/8/18,Queens,Playground,Paul Raimonda Playground,MUTS - Ferdinand,58,Fri,20:30,less than avg,0
+6/8/18,Queens,Playground,The Painter's Playground,MUTS - Captain Underpants: The First Epic,122,Fri,20:00,more than avg,1
+6/8/18,Brooklyn,Park,Fort Greene Park,Movies Under the Stars : Bruce!!,248,Fri,20:00,more than avg,1
+6/8/18,Bronx,Park,Ferry Point Park,Movies Under The Stars: Guardians of The Galaxy Vol. 2,600,Fri,20:30,more than avg,1
+6/9/18,Manhattan,Park,Randall's Island Park,Movies Under the Stars : Ferris Bueller's Day Off,40,Sat,20:00,less than avg,0
+6/9/18,Bronx,Park,St. Mary's Park,Movies Under The Star's: Thor Ragnorok,52,Sat,20:30,less than avg,0
+6/9/18,Queens,Park,Brookville Park,MUTS - Black Panther,61,Sat,20:30,less than avg,0
+6/9/18,Staten Island,Park,LaTourette Park & Golf Course,Movies Under the Stars: Field of Dreams,120,Sat,0:00,more than avg,1
+6/9/18,Manhattan,Park,John Jay Park,Movies Under the Stars: Wonder Woman,200,Sat,0:00,more than avg,1
+6/10/18,Queens,Playground,Ehrenreich/Austin Playground,MUTS,0,Sun,20:00,less than avg,0
+6/12/18,Manhattan,Playground,Samuel N. Bennerson 2nd Playground,Movies Under the Stars: Black Panther,50,Tue,20:00,less than avg,0
+6/13/18,Bronx,Playground,Slattery Playground,Movies Under The Stars: The Emoji Movie,52,Wed,20:30,less than avg,0
+6/13/18,Manhattan,Park,St. Catherine's Park,Movies Under the Stars: Despicable Me 3,58,Wed,20:00,less than avg,0
+6/14/18,Queens,Playground,Hallets Cove Playground,MUTS - Zootopia,60,Thu,20:30,less than avg,0
+6/14/18,Manhattan,Park,Marcus Garvey Park,Movies Under the Stars: The Shape of Water,93,Thu,20:00,less than avg,0
+6/14/18,Bronx,Playground,Lozada Playground,Movies Under The Stars: Transformers The last Knight,93,Thu,20:30,less than avg,0
+6/14/18,Manhattan,Recreation Center,Tony Dapolito Recreation Center,Movie Under The Stars: Rooftop Series Showing of Stonewall,94,Thu,20:30,less than avg,0
+6/15/18,Staten Island,Other,Midland Field,Movies Under the Stars: Transformers: The Last Knight,52,Fri,20:30,less than avg,0
+6/15/18,Queens,Playground,Playground Ninety,"Movies Under the Stars ""The Book of Life""",52,Fri,20:30,less than avg,0
+6/15/18,Brooklyn,Park,Sunset Park,Movies Under the Stars : Guardians of the Galaxy 2,77,Fri,20:00,less than avg,0
+6/15/18,Staten Island,Park,CPL. Thompson Park,Movies Under the Stars: The Black Panther,95,Fri,20:30,less than avg,0
+6/15/18,Manhattan,Park,Columbus Park,Movies Under the Stars: MOCA: The Lego Ninjago Movie,100,Fri,20:00,less than avg,0
+6/15/18,Brooklyn,Other,McCarren Pool Deck,Movies Under the Stars : Pariah,175,Fri,20:00,more than avg,1
+6/15/18,Bronx,Park,Pelham Bay Park,Movies Under The Stars: Wonder Woman,650,Fri,20:30,more than avg,1
+6/16/18,Staten Island,Park,Von Briesen Park,Movies Under the Stars: Cat and the Hat,16,Sat,21:00,less than avg,0
+6/16/18,Brooklyn,Park,Red Hook Park,Movies Under the Stars : Black Panther,35,Sat,20:00,less than avg,0
+6/16/18,Queens,Playground,Electric Playground,MUTS - Moana,50,Sat,20:30,less than avg,0
+6/16/18,Queens,Park,Edward Byrne,"MUTS "" Ferdinand """,58,Sat,20:00,less than avg,0
+6/16/18,Manhattan,Playground,Little Flower Playground,Movies Under the Stars: The Greatest Showman,72,Sat,20:00,less than avg,0
+6/16/18,Bronx,Playground,Parkside Playground,Movies Under The Stars: Despicable Me 3,93,Sat,20:30,less than avg,0
+6/16/18,Staten Island,Park,Bloomingdale Park,Movies Under the Stars: Black Panther,137,Sat,21:00,more than avg,1
+6/17/18,Brooklyn,Playground,Bill Brown Playground,Movies Under the Stars : Willy Wonka,16,Sun,21:00,less than avg,0
+6/18/18,Bronx,Park,St. James Park,Movies Under The Stars: Coco,93,Mon,20:30,less than avg,0
+6/19/18,Bronx,Recreation Center,Williamsbridge Oval Recreation Center,Movies Under The Stars: Black Panther,93,Tue,20:30,less than avg,0
+6/19/18,Manhattan,Playground,Wright Brothers Playground,Movies under the stars: Logan,94,Tue,20:00,less than avg,0
+6/20/18,Bronx,Park,Seton Park,Movies Under The Stars: Despicable Me 3,35,Wed,20:30,less than avg,0
+6/20/18,Bronx,Playground,Story Playground,Movies Under The Stars: The Lego Ninjago Movie,94,Wed,20:30,less than avg,0
+6/21/18,Bronx,Park,Harris Park,Movies Under The Stars: Wonder,58,Thu,20:30,less than avg,0
+6/21/18,Manhattan,Playground,Vesuvio Playground,Movies Under the Stars,60,Thu,18:00,less than avg,0
+6/21/18,Manhattan,Recreation Center,Tony Dapolito Recreation Center,Movies Under the Stars: God's Own Country,60,Thu,18:00,less than avg,0
+6/21/18,Manhattan,Recreation Center,Tony Dapolito Recreation Center,Movies Under the Stars- Pride Series: God's Own Country,137,Thu,20:30,more than avg,1
+6/21/18,Bronx,Park,Poe Park,Movies Under The Stars: Justice League,175,Thu,20:30,more than avg,1
+6/21/18,Manhattan,Recreation Center,Tony Dapolito Recreation Center,Movies Under the Stars- Pride Series: God's Own Country,175,Thu,20:30,more than avg,1
+6/21/18,Manhattan,Playground,Vesuvio Playground,Movies Under the Stars: Despicable Me 3,175,Thu,18:00,more than avg,1
+6/22/18,Manhattan,Park,Randall's Island Park,Movies Under the Stars : Wonder Woman,0,Fri,21:00,less than avg,0
+6/22/18,Queens,Park,"Phil ""Scooter"" Rizzuto Park",MUTS - Despicable Me 3,50,Fri,20:30,less than avg,0
+6/22/18,Bronx,Recreation Center,Owen Dolen Recreation Center,Movies Under The Stars: Lego Batman Movie,93,Fri,20:30,less than avg,0
+6/22/18,Manhattan,Park,Columbus Park,Movies Under the Stars: Pushing Hands,100,Fri,18:00,less than avg,0
+6/22/18,Queens,Other,Rory Staunton Field,"MUTS "" Paddington """,100,Fri,20:30,less than avg,0
+6/22/18,Bronx,Park,St. James Park,Movies Under The Stars: Thor Ragnarok,175,Fri,20:30,more than avg,1
+6/22/18,Queens,Park,John Golden,"MUTS "" Back To The Future """,248,Fri,20:00,more than avg,1
+6/22/18,Brooklyn,Park,Fort Greene Park,Movies Under the Stars : Art of the Score,700,Fri,21:00,more than avg,1
+6/23/18,Brooklyn,Park,Dyker Beach Park,Movies Under the Stars : Nut Job 2,15,Sat,20:00,less than avg,0
+6/23/18,Bronx,Park,Crotona Park,Movies Under The Stars: Moana,63,Sat,20:30,less than avg,0
+6/23/18,Queens,Other,Sean's Place,"Movies Under the Stars ""Lego: Ninjago""",200,Sat,20:30,more than avg,1
+6/24/18,Brooklyn,Playground,Sheepshead Playground,Movies Under the Stars : Jumanji (2017)),52,Sun,20:00,less than avg,0
+6/24/18,Brooklyn,Park,Bensonhurst Park,Movies Under the Stars : Karate Kid,95,Sun,20:00,less than avg,0
+6/25/18,Bronx,Park,St. James Park,Movies Under The Stars: Despicable Me 3,60,Mon,20:30,less than avg,0
+6/26/18,Bronx,Recreation Center,Williamsbridge Oval Recreation Center,Movies Under The Stars: Moana,52,Tue,20:30,less than avg,0
+6/26/18,Queens,Playground,Russell Sage Playground,"Movies Under the Stars ""The Lion King""",93,Tue,20:30,less than avg,0
+6/26/18,Manhattan,Playground,Moore Playground,Movies Under the Stars: Fences,137,Tue,18:00,more than avg,1
+6/27/18,Queens,Park,Unisphere - FMCP,"Movies Under the Stars ""Jumanji""",50,Wed,20:30,less than avg,0
+6/27/18,Manhattan,Park,J. Hood Wright Park,Movies Under the Stars: The Greatest Showman,52,Wed,18:00,less than avg,0
+6/27/18,Bronx,Recreation Center,Hunts Point Recreation Center,Movies Under The Stars: Black Panther,72,Wed,20:30,less than avg,0
+6/27/18,Manhattan,Park,St. Nicholas Park,Movies Under the Stars: Marshall,200,Wed,18:00,more than avg,1
+6/27/18,Bronx,Park,Seton Park,Movies Under The Stars: Jumanji Welcome To The Jungle,270,Wed,20:30,more than avg,1
+6/28/18,Manhattan,Park,Chelsea Park,Movies Under the Stars: Captain Underpants: The First Epic Movie,52,Thu,20:00,less than avg,0
+6/28/18,Staten Island,Recreation Center,Greenbelt Recreation Center,Movies Under the Stars: Chicago,52,Thu,21:00,less than avg,0
+6/28/18,Manhattan,Recreation Center,Tony Dapolito Recreation Center,Movies Under the Stars - Pride Series: Saturday Church,55,Thu,19:00,less than avg,0
+6/28/18,Brooklyn,Park,Pena Herrera Park,Movies Under the Stars : Power Rangers,93,Thu,20:00,less than avg,0
+6/28/18,Bronx,Park,Frank Frisch Field,Movies Under The Stars: Paddington 2,95,Thu,20:30,less than avg,0
+6/28/18,Manhattan,Recreation Center,Tony Dapolito Recreation Center,Movies Under the Stars - Pride Series: Saturday Church,175,Thu,19:00,more than avg,1
+6/28/18,Queens,Playground,Conch Playground,"Movies Under the Stars ""Ferdinand""",175,Thu,20:30,more than avg,1
+6/29/18,Bronx,Park,Mullaly Park,Movies Under The Stars: Black Panther,15,Fri,20:30,less than avg,0
+6/29/18,Manhattan,Park,Fort Tryon Park,Movies Under the Stars: Wonder Woman,52,Fri,20:00,less than avg,0
+6/29/18,Bronx,Park,Concrete Plant Park,Movies Under The Stars: Spiderman Homecoming,72,Fri,20:30,less than avg,0
+6/29/18,Staten Island,Park,Willowbrook Park,Movies Under the Stars: Spiderman Homecoming,93,Fri,21:00,less than avg,0
+6/29/18,Queens,Playground,Paul Raimonda Playground,"Movies Under the Stars ""Wonder""",122,Fri,20:30,more than avg,1
+6/29/18,Brooklyn,Park,McCarren Park,Movies Under the Stars : Smiles on a Summer Night,248,Fri,0:00,more than avg,1
+6/29/18,Brooklyn,Park,McKinley Park,Movies Under the Stars : E.T.,400,Fri,20:00,more than avg,1
+6/30/18,Staten Island,Park,CPL. Thompson Park,Movies Under the Stars: Jumanji Welcome to the Jungle,16,Sat,21:00,less than avg,0
+6/30/18,Bronx,Park,Macombs Dam Park,Movies Under The Stars: Black Panther,35,Sat,20:30,less than avg,0
+6/30/18,Brooklyn,Park,Scarangella Park,Movies Under the Stars : Black Panther,35,Sat,20:00,less than avg,0
+6/30/18,Bronx,Park,St. James Park,Movies Under The Stars: Black Panther,58,Sat,20:30,less than avg,0
+6/30/18,Queens,Other,Rory Staunton Field,"Movies Under the Stars ""An American Tail""",248,Sat,20:30,more than avg,1
+6/30/18,Staten Island,Park,Schmul Park,Movies Under the Stars: A League Of their Own,500,Sat,21:00,more than avg,1
+6/30/18,Brooklyn,Playground,Parkside Playground,Movies Under the Stars : Black Panther,600,Sat,20:00,more than avg,1
+7/2/18,Bronx,Playground,Bathgate Playground,Movies Under The Stars: Gnomeo and Juliet,50,Mon,20:30,less than avg,0
+7/2/18,Brooklyn,Park,Cadman Plaza Park,Movies Under the Stars : Dunkirk,75,Mon,20:00,less than avg,0
+7/3/18,Queens,Park,Juniper Valley Park,Movies Under The Stars,58,Tue,20:30,less than avg,0
+7/3/18,Manhattan,Park,White Park,Movies Under the Stars: The House,175,Tue,20:00,more than avg,1
+7/5/18,Brooklyn,Park,John Paul Jones Park,Movies Under the Stars : Rocky,0,Thu,20:00,less than avg,0
+7/5/18,Staten Island,Park,Seaside Wildlife Nature Park,Movies Under the Stars: Jumanji,15,Thu,0:00,less than avg,0
+7/5/18,Bronx,Park,Bronx Park,Movies Under The Stars: Star Wars The Last Jedi,16,Thu,20:30,less than avg,0
+7/5/18,Queens,Park,Roy Wilkins,Movies Under The Stars ( Jumanji 2017),175,Thu,20:30,more than avg,1
+7/5/18,Manhattan,Recreation Center,Tony Dapolito Recreation Center,"Movies Under the Starts Throwback Series ""Splash""",175,Thu,20:30,more than avg,1
+7/5/18,Manhattan,Park,Bellevue South Park,Movies Under the Stars: Bedtime Stories,200,Thu,20:00,more than avg,1
+7/6/18,Bronx,Recreation Center,St. Mary's Recreation Center,Movies Under The Stars: Jumanji: Welcome To The Jungle,0,Fri,20:30,less than avg,0
+7/6/18,Manhattan,Park,Harlem Art Park,Movies Under the Stars: Southside with You,52,Fri,20:00,less than avg,0
+7/6/18,Staten Island,Park,Father Macris Park,Movies Under the Stars: Rise of the Planet of the Apes,93,Fri,21:00,less than avg,0
+7/6/18,Brooklyn,Park,Herbert Von King Park,Movies Under the Stars : Marshall,94,Fri,20:00,less than avg,0
+7/6/18,Bronx,Park,Claremont Park,Movies Under The Stars: Despicable Me 3,148,Fri,20:30,more than avg,1
+7/7/18,Bronx,Park,St. James Park,Movies Under The Stars: Wonder,15,Sat,20:30,less than avg,0
+7/7/18,Queens,Park,Springfield Park,"Movies Under The Stars ""  Moana """,40,Sat,20:30,less than avg,0
+7/7/18,Manhattan,Park,Thompkin Square Park,Movies Under the Stars: Hotel Transylvania 1,95,Sat,20:00,less than avg,0
+7/7/18,Staten Island,Park,Westerleigh Park,Movies Under the Stars: Star Wars: The Clone Wars,248,Sat,21:00,more than avg,1
+7/7/18,Staten Island,Park,Wolfe's Pond Park,Movies Under the Stars:,248,Sat,21:00,more than avg,1
+7/7/18,Queens,Playground,Broad Channel,Movies Under The Stars ( Jumanji 2017 ),475,Sat,20:30,more than avg,1
+7/7/18,Brooklyn,Park,Sunset Park,Movies Under the Stars : Pacific Rim,500,Sat,21:00,more than avg,1
+7/8/18,Manhattan,Park,Randall's Island Park,Movies Under the Stars : Jumanji (2017),550,Sun,20:00,more than avg,1
+7/9/18,Brooklyn,Park,Kaiser Park,Movies Under the Stars : Despicable Me 3,29,Mon,0:00,less than avg,0
+7/10/18,Brooklyn,Playground,Heckscher Playground,Movies Under the Stars : Smurfs  The Lost Village,0,Tue,20:00,less than avg,0
+7/10/18,Manhattan,Playground,Asser Levy Playground,Movies Under the Stars: Hotel Transylvania 2,15,Tue,20:00,less than avg,0
+7/10/18,Bronx,Recreation Center,West Bronx Recreation Center,Movies Under The Stars: Paddington,137,Tue,20:30,more than avg,1
+7/10/18,Staten Island,Park,Conference House Park,Movies Under the Stars: Pitch Perfect,248,Tue,21:00,more than avg,1
+7/11/18,Staten Island,Other,Det. Russel Timoshenko,Movies Under the Stars: Jaws,0,Wed,21:00,less than avg,0
+7/11/18,Bronx,Playground,Cedar Playground,Movies Under The Stars: Daddy's Home 2,15,Wed,20:30,less than avg,0
+7/11/18,Manhattan,Park,Cherry Tree Park,Movies Under the Stars: The Secret Life of Pets,35,Wed,20:00,less than avg,0
+7/11/18,Staten Island,Recreation Center,Greenbelt Recreation Center,Movies Under the Stars: La La Land,35,Wed,21:00,less than avg,0
+7/11/18,Bronx,Park,Seton Park,Movies Under The Stars: Star Wars The Last Jedi,58,Wed,20:30,less than avg,0
+7/11/18,Queens,Playground,Addabbo Playground,"Movies Under The Stars ""Zootopia""",89,Wed,20:30,less than avg,0
+7/11/18,Brooklyn,Park,Msgr. McGolrick Park,Movies Under the Stars : Sing!!,95,Wed,20:00,less than avg,0
+7/12/18,Staten Island,Park,Clove Lakes Park,Movies Under the Stars: Beauty and Beast,58,Thu,21:00,less than avg,0
+7/12/18,Queens,Recreation Center,Lost Battalion Hall Recreation Center,"Movies Under The Stars ""Despicable Me 3""",72,Thu,21:00,less than avg,0
+7/12/18,Manhattan,Playground,Tecumseh Playground,Movies Under the Stars: The Space Between Us,75,Thu,20:00,less than avg,0
+7/12/18,Brooklyn,Playground,Brevoort Playground,Movies Under the Stars: The Lion King,93,Thu,20:00,less than avg,0
+7/12/18,Bronx,Recreation Center,Williamsbridge Oval Recreation Center,Movies Under The Stars: Jumanji: Welcome To The Jungle,120,Thu,20:30,more than avg,1
+7/13/18,Staten Island,Park,Faber Pool and Park,Movies Under the Stars: Hook,35,Fri,21:00,less than avg,0
+7/13/18,Manhattan,Park,Frederick Johnson Park,Movies Under the Stars: Queen of Katwe,52,Fri,20:00,less than avg,0
+7/13/18,Brooklyn,Playground,John Hancock Playground,Movies Under The Stars : Men In Black 3,58,Fri,20:00,less than avg,0
+7/13/18,Staten Island,Park,Bloomingdale Park,Movies Under the Stars: Cars 3,72,Fri,21:00,less than avg,0
+7/13/18,Queens,Park,Crocheron Park,"MUTS ""Star Wars: The Last Jedi""",93,Fri,21:00,less than avg,0
+7/13/18,Bronx,Park,Macombs Dam Park,Movies Under The Stars: Wonder Woman,93,Fri,20:30,less than avg,0
+7/14/18,Manhattan,Playground,Playground Eighty Nine LXXXIX,Movies Under the Stars: Coco,35,Sat,18:00,less than avg,0
+7/14/18,Staten Island,Other,Cedar Grove Meadow,Movies Under the Stars: Peter Rabbit,52,Sat,21:00,less than avg,0
+7/14/18,Staten Island,Park,CPL. Thompson Park,Movies Under the Stars: Rouge One: A Star Wars Story,58,Sat,21:00,less than avg,0
+7/14/18,Brooklyn,Park,Cooper Park,Movies Under the Stars : Star Trek,63,Sat,20:00,less than avg,0
+7/14/18,Bronx,Playground,Watson Gleason Playground,Movies Under The Stars: The Lego Movie,148,Sat,20:30,more than avg,1
+7/16/18,Brooklyn,Playground,Thomas Greene Playground,Movies Under the Stars : Despicable Me 3,100,Mon,20:00,less than avg,0
+7/18/18,Manhattan,Park,Hamilton Fish Park,Movies Under the Stars: Moana,50,Wed,20:00,less than avg,0
+7/18/18,Bronx,Park,Seton Park,Movies Under The Stars: ET The Extra Terrestrial,52,Wed,20:30,less than avg,0
+7/18/18,Bronx,Park,Poe Park,Movies Under The Stars: Wonder Woman,89,Wed,20:30,less than avg,0
+7/18/18,Queens,Park,Flushing Meadows Corona Park,"MUTS ""Wonder Woman""",93,Wed,20:30,less than avg,0
+7/18/18,Brooklyn,Park,Carroll Park,Movies Under the Stars : Mary Poppin,94,Wed,20:00,less than avg,0
+7/19/18,Staten Island,Park,Westerleigh Park,Movies Under the Stars: The Lorax,0,Thu,20:30,less than avg,0
+7/19/18,Staten Island,Park,Lemon Creek Park,Movies Under the Stars: Despicable Me 3,29,Thu,0:00,less than avg,0
+7/19/18,Brooklyn,Park,Cooper Park,Movies Under the Stars : Justice League,35,Thu,20:00,less than avg,0
+7/19/18,Manhattan,Recreation Center,Tony Dapolito Recreation Center,Movies Under the Stars Throwback Series,65,Thu,20:30,less than avg,0
+7/19/18,Manhattan,Playground,Playground 103 CIII,Movies Under the Stars: Lion,93,Thu,20:00,less than avg,0
+7/19/18,Queens,Park,Montbellier Park,"MUTS ""Despicable Me 3""",95,Thu,20:30,less than avg,0
+7/19/18,Bronx,Other,Frank Frisch Field,Movies Under The Stars: Peter Rabbit,148,Thu,20:30,more than avg,1
+7/20/18,Queens,Other,Beach 59th Street,"MUTS ""Southside with You""",16,Fri,20:30,less than avg,0
+7/20/18,Bronx,Park,Ferry Point Park,Movies Under The Stars: Coco,35,Fri,20:30,less than avg,0
+7/20/18,Staten Island,Park,Conference House Park,Movies Under the Stars:Wonder Woman,35,Fri,21:00,less than avg,0
+7/20/18,Manhattan,Playground,Dry Dock Playground,Movies Under the Stars: The Jungle Book,50,Fri,20:00,less than avg,0
+7/20/18,Staten Island,Recreation Center,Ocean Breeze Track & Field Athletic Complex,Movies Under the Stars: TMNT: Out of the Shadows,52,Fri,21:00,less than avg,0
+7/20/18,Bronx,Playground,Behagen Playground,Movies Under The Stars: Coco,52,Fri,20:30,less than avg,0
+7/20/18,Staten Island,Park,De Matti Park,Movies Under the Stars: Flubber,137,Fri,21:00,more than avg,1
+7/21/18,Bronx,Park,Crotona Park,Movies Under The Stars: Jumanji: Welcome To The Jungle,52,Sat,20:30,less than avg,0
+7/23/18,Queens,Park,Forest Park Bandshell,"Movies Under the Stars ""Grease""",35,Mon,20:30,less than avg,0
+7/24/18,Staten Island,Park,Clove Lakes Park,Movies Under the Stars: Coco,15,Tue,20:30,less than avg,0
+7/24/18,Bronx,Park,Franz Sigel Park,Movies Under The Stars: Captain Underpants,35,Tue,20:30,less than avg,0
+7/24/18,Manhattan,Playground,Nathan Straus Playground,Movies Under the Stars: Justice League,58,Tue,20:00,less than avg,0
+7/24/18,Bronx,Recreation Center,Williamsbridge Oval Recreation Center,Movies Under The Stars: Boss Baby,175,Tue,20:30,more than avg,1
+7/25/18,Bronx,Park,Tremont Park,Movies Under The Stars: Despicable Me 3,52,Wed,20:30,less than avg,0
+7/25/18,Staten Island,Recreation Center,Greenbelt Recreation Center,Movies Under the Stars: Bye Bye Birdie,60,Wed,20:30,less than avg,0
+7/26/18,Manhattan,Recreation Center,Tony Dapolito Recreation Center,Movies Under the Stars: Throwback Series - The Lion King,16,Thu,20:30,less than avg,0
+7/26/18,Brooklyn,Park,Wingate Park,Movies Under the Stars : Star Wars The Last Jedi,40,Thu,20:00,less than avg,0
+7/26/18,Staten Island,Park,Faber Pool and Park,Movies Under the Stars: Jurassic,63,Thu,20:30,less than avg,0
+7/26/18,Manhattan,Recreation Center,Tony Dapolito Recreation Center,Movies Under the Stars: Throwback Series - The Lion King,77,Thu,20:30,less than avg,0
+7/26/18,Manhattan,Playground,Asser Levy Playground,Movies Under the Stars: Loving Vincent And Paint Night,77,Thu,20:00,less than avg,0
+7/26/18,Bronx,Recreation Center,Hunts Point Recreation Center,Movies Under The Stars: Star Wars: The Last Jedi,94,Thu,20:15,less than avg,0
+7/26/18,Queens,Park,Alley Pond Park,"Movies Under the Stars ""Zootopia""",412,Thu,20:30,more than avg,1
+7/27/18,Bronx,Playground,Merriam Playground,Movies Under The Stars: A Wrinkle In Time,52,Fri,20:30,less than avg,0
+7/27/18,Bronx,Park,Concrete Plant Park,Movies Under The Stars: Leap,52,Fri,20:30,less than avg,0
+7/27/18,Queens,Playground,Playground for All Children,"Movies Under the Stars ""Coco""",52,Fri,20:30,less than avg,0
+7/27/18,Staten Island,Park,Wolfe's Pond Park,Movies Under the Stars: Pitch Perfect 2,93,Fri,20:30,less than avg,0
+7/28/18,Staten Island,Other,Timoshenko,Movies Under the Stars: Star Wars: The Last Jedi,15,Sat,20:30,less than avg,0
+7/28/18,Brooklyn,Park,Marine Park,Movies Under the Stars : The Incredibles,15,Sat,20:00,less than avg,0
+7/28/18,Manhattan,Playground,Frederick Douglass Playground,Movies Under the Stars: Valerian and the City of a Thousand Planets,16,Sat,20:00,less than avg,0
+7/28/18,Staten Island,Park,CPL. Thompson Park,Movies Under the Stars: Justice League,52,Sat,20:30,less than avg,0
+7/28/18,Queens,Park,O'Donohue Park,"Movies Under the Stars ""Star Wars: The Last Jedi""",60,Sat,20:30,less than avg,0
+7/28/18,Bronx,Park,Van Cortlandt Park,Movies Under The Stars: Star Wars: The Last Jedi,72,Sat,20:30,less than avg,0
+7/28/18,Manhattan,Playground,Frederick Douglass Playground,Movies Under the Stars: Valerian and the City of a Thousand Planets,175,Sat,20:00,more than avg,1
+7/29/18,Queens,Other,Beach 94th Street,"Movies Under the Stars ""The Little Mermaid""",35,Sun,20:30,less than avg,0
+7/30/18,Brooklyn,Playground,50 Kent,Movies Under the Stars: King Kong,52,Mon,20:00,less than avg,0
+7/30/18,Queens,Park,Highland Park,"Movies Under the Stars ""The Incredibles""",93,Mon,20:30,less than avg,0
+7/31/18,Manhattan,Playground,St. Nicholas Playground North,Movies Under the Stars: Justice League,15,Tue,20:00,less than avg,0
+7/31/18,Bronx,Recreation Center,Williamsbridge Oval Recreation Center,Movies Under The Stars: The Lion King,16,Tue,20:15,less than avg,0
+7/31/18,Manhattan,Playground,St. Nicholas Playground North,Movies Under the Stars - Justice League,72,Tue,20:00,less than avg,0
+7/31/18,Bronx,Recreation Center,St. James Recreation Center,Movies Under The Stars: Justice League & Despicable Me 3,93,Tue,11:00,less than avg,0
+7/31/18,Staten Island,Park,Bloomingdale Park,Movies Under the Stars: Pirates of the Caribbean,93,Tue,20:30,less than avg,0
+7/31/18,Queens,Park,Yellowstone Park,"Movies Under the Stars ""Coco""",100,Tue,8:30,less than avg,0
+8/1/18,Queens,Park,Flushing Meadows Corona Park,"Movies Under the Stars ""Black Panther""",0,Wed,20:30,less than avg,0
+8/1/18,Manhattan,Park,De Witt Clinton Park,Movies Under the Stars - Gifted,35,Wed,18:00,less than avg,0
+8/1/18,Bronx,Playground,Loreto Playground,Movies Under The Stars: Jumanji: Welcome To The Jungle,52,Wed,20:15,less than avg,0
+8/1/18,Staten Island,Recreation Center,Greenbelt Recreation Center,Movies Under the Stars: The King and I,77,Wed,20:30,less than avg,0
+8/1/18,Manhattan,Park,De Witt Clinton Park,Movies Under the Stars: Gifted,77,Wed,18:00,less than avg,0
+8/2/18,Brooklyn,Park,Herbert Von King Park,"Movies Under the Stars "" Thor : Ragnarok""",16,Thu,20:00,less than avg,0
+8/2/18,Brooklyn,Park,Herbert Von King Park,"Movies Under the Stars "" Thor Ragnarok""",52,Thu,20:00,less than avg,0
+8/2/18,Bronx,Park,Haffen Park,Movies Under The Stars: Remember The Titans,52,Thu,20:15,less than avg,0
+8/3/18,Staten Island,Recreation Center,Ocean Breeze Track & Field Athletic Complex,Movies Under the Stars: Chariots of Fire,0,Fri,20:30,less than avg,0
+8/3/18,Bronx,Recreation Center,St. James Recreation Center,Movies Under The Stars: Early Man,35,Fri,20:15,less than avg,0
+8/3/18,Queens,Park,Crocheron Park,"Movies Under the Stars ""Justice League""",55,Fri,20:30,less than avg,0
+8/3/18,Manhattan,Recreation Center,Jackie Robinson Recreation Center,Movies Under the Stars - The Jackie Robinson Story,60,Fri,18:00,less than avg,0
+8/3/18,Bronx,Park,Mullaly Park,Movies Under The Stars: Jumanji: Welcome To The Jungle,95,Fri,20:15,less than avg,0
+8/4/18,Manhattan,Park,Inwood Hill Park,Movies Under the Stars - Valerian City of a Thousand Planets,0,Sat,18:00,less than avg,0
+8/4/18,Staten Island,Park,Seaside Wildlife Nature Park,Movies Under the Stars: Paddington,35,Sat,0:00,less than avg,0
+8/4/18,Staten Island,Park,Midland Field,Movies Under the Stars: Black Panther,58,Sat,21:00,less than avg,0
+8/4/18,Bronx,Park,Crotona Park,Movies Under The Stars: Black Panther,93,Sat,20:15,less than avg,0
+8/4/18,Queens,Playground,Paul Raimonda Playground,"Movies Under the Stars ""Coco""",93,Sat,20:30,less than avg,0
+8/5/18,Brooklyn,Other,Randall's Island Park,Movies Under the Stars,700,Sun,20:00,more than avg,1
+8/6/18,Queens,Park,Cunningham Park,"Movies Under the Stars: ""Black Panther""",931,Mon,20:30,more than avg,1
+8/7/18,Bronx,Recreation Center,Owen Dolen Recreation Center,Movies Under The Stars: Black Panther,52,Tue,20:15,less than avg,0
+8/8/18,Manhattan,Park,Bellevue South Park,"Movies Under the Stars: ""Wonder Woman""",15,Wed,20:30,less than avg,0
+8/8/18,Bronx,Park,Vidalia Park,Movies Under The Stars: The Lego Batman Movie,52,Wed,20:15,less than avg,0
+8/8/18,Brooklyn,Park,50 Kent Street,"Movies Under the Stars : Dr Strange Love""",110,Wed,20:00,more than avg,1
+8/9/18,Queens,Park,Macneil Park,"Movies Under the Stars ""Wonder Woman""",35,Thu,20:30,less than avg,0
+8/9/18,Staten Island,Park,Conference House Park,Movies Under the Stars: Back to the future 2,52,Thu,21:00,less than avg,0
+8/9/18,Manhattan,Playground,Matthew P. Sapolin Playground,Movies Under the Stars - Isle of Dogs,65,Thu,18:00,less than avg,0
+8/9/18,Bronx,Recreation Center,West Bronx Recreation Center,Movies Under The Stars: Wonder,191,Thu,20:15,more than avg,1
+8/9/18,Brooklyn,Park,Commodore Barry Park,"Movies Under the Stars : ""Black Panther""",191,Thu,20:00,more than avg,1
+8/9/18,Manhattan,Playground,Matthew P. Sapolin Playground,"Movies Under the Stars: ""Isle of Dogs""",700,Thu,20:30,more than avg,1
+8/10/18,Staten Island,Park,Timoshenko,Movies Under the Stars: Dunkirk,15,Fri,0:00,less than avg,0
+8/10/18,Staten Island,Park,Westerleigh Park,Movies Under the Stars: The incredibles,15,Fri,20:30,less than avg,0
+8/10/18,Manhattan,Playground,Twenty Four Sycamores Playground,Movies Under the Stars - Peter Rabbit,52,Fri,6:00,less than avg,0
+8/10/18,Brooklyn,Park,Msgr. McGolrick Park,"Movies Under the Stars : "" The Greatest Showman""",93,Fri,20:00,less than avg,0
+8/10/18,Manhattan,Recreation Center,Hansborough Recreation Center,Movies Under the Stars - Malcom X,93,Fri,18:00,less than avg,0
+8/10/18,Queens,Other,Beach 59th Street,Movies Under the Stars,100,Fri,20:30,less than avg,0
+8/10/18,Manhattan,Recreation Center,Hansborough Recreation Center,Movies Under the Stars - Malcom X,122,Fri,0:00,more than avg,1
+8/10/18,Bronx,Park,Pelham Bay Park,Movies Under The Stars: Star Wars: The Last Jedi,122,Fri,20:00,more than avg,1
+8/10/18,Manhattan,Park,Twenty-Four Sycamores Park,"Movies Under the Stars: ""Peter Rabbit""",137,Fri,20:30,more than avg,1
+8/11/18,Bronx,Park,Soundview Park,Movies Under The Stars: Star Wars: The Last Jedi,52,Sat,20:00,less than avg,0
+8/11/18,Queens,Other,Beach 94th Street,Movies Under the Stars,52,Sat,20:30,less than avg,0
+8/12/18,Queens,Other,Beach 94th Street,"Movies Under the Stars ""North Shore""",52,Sun,20:30,less than avg,0
+8/12/18,Brooklyn,Playground,Homecrest Playground,"Movies Under the Stars "" Mulan 2""",77,Sun,20:00,less than avg,0
+8/13/18,Bronx,Playground,Playground 52 LII,Movies Under The Stars: Coco,52,Mon,20:00,less than avg,0
+8/13/18,Queens,Park,Highland Park,Movies Under the Stars,52,Mon,20:30,less than avg,0
+8/14/18,Queens,Park,Alley Pond Park,Movies Under the Stars,0,Tue,20:30,less than avg,0
+8/14/18,Manhattan,Playground,Henry M. Jackson Playground,Movies Under the Stars - Gremlins,52,Tue,18:00,less than avg,0
+8/15/18,Brooklyn,Playground,Osborn Playground,"Movies Under the Stars "" Black Panther """,0,Wed,20:00,less than avg,0
+8/15/18,Queens,Park,Juniper Valley Park,"Movies Under the Stars ""The Incredibles""",0,Wed,20:30,less than avg,0
+8/15/18,Manhattan,Playground,James Weldon Johnson Playground,Movies Under the Stars - Nutty by Nature,60,Wed,18:00,less than avg,0
+8/15/18,Staten Island,Recreation Center,Greenbelt Recreation Center,Movies Under the Stars: A Funny thing Happened...,93,Wed,20:30,less than avg,0
+8/15/18,Bronx,Park,Barretto Point Park,Movies Under The Stars: Pirates Of The Caribbean: Dead Men Tell No Tales,93,Wed,20:00,less than avg,0
+8/16/18,Bronx,Other,Frank Frisch Field,Movies Under The Stars: A Dog's Purpose,52,Thu,20:00,less than avg,0
+8/16/18,Manhattan,Playground,Samuel Seabury Playground,Movies Under the Stars - The Fantastic Mr. Fox,55,Thu,18:00,less than avg,0
+8/16/18,Brooklyn,Playground,Colonel David Marcus Playground,"Movies Under the Stars "" Toy Story 3""",400,Thu,20:00,more than avg,1
+8/17/18,Staten Island,Park,Von Briesen Park,Movies Under the Stars: The Lion King,15,Fri,20:30,less than avg,0
+8/17/18,Staten Island,Recreation Center,Ocean Breeze Track & Field Athletic Complex,Movies Under the Stars: Grease,35,Fri,20:00,less than avg,0
+8/17/18,Queens,Playground,Playground for All Children,"Movies Under the Stars ""Ferdinand""",40,Fri,20:30,less than avg,0
+8/17/18,Bronx,Park,Joyce Kilmer Park,Movies Under The Stars: Avenger's: Infinity War's,52,Fri,20:00,less than avg,0
+8/17/18,Bronx,Park,Ferry Point Park,Movies Under The Stars: Black Panther,52,Fri,20:00,less than avg,0
+8/17/18,Brooklyn,Playground,John Hancock Playground,"Movies Under the Stars "" Black Panther""",52,Fri,20:00,less than avg,0
+8/18/18,Bronx,Park,Mullaly Park,Movies Under The Stars: Coco,52,Sat,20:00,less than avg,0
+8/18/18,Queens,Park,Roy Wilkins,Movies Under the Stars,52,Sat,20:30,less than avg,0
+8/19/18,Queens,Other,Beach 94th Street,"Movies Under the Stars ""Saving Jamaica Bay""",25,Sun,20:30,less than avg,0
+8/19/18,Manhattan,Park,Randall's Island Park,"Movies Under the Stars "" Guardians of the Galaxy""",100,Sun,20:00,less than avg,0
+8/20/18,Bronx,Park,Rainey Park,Movies Under The Stars: jumanji: Welcome To The Jungle,52,Mon,20:00,less than avg,0
+8/20/18,Queens,Park,Forest Park Bandshell,"Movies Under the Stars ""Jumanji""",54,Mon,20:30,less than avg,0
+8/21/18,Brooklyn,Park,Carroll Park,"Movies Under the Stars ""Everything Everything""",16,Tue,20:00,less than avg,0
+8/21/18,Queens,Recreation Center,Lost Battalion Hall Recreation Center,"Movies Under the Stars ""Paddington""",35,Tue,20:30,less than avg,0
+8/21/18,Manhattan,Playground,Col. Young Playground,Movies Under the Stars: The BFG,72,Tue,20:00,less than avg,0
+8/21/18,Staten Island,Park,Lemon Creek Park,Movies Under the Stars: Pitch Perfect 3,77,Tue,0:00,less than avg,0
+8/21/18,Bronx,Recreation Center,Poe Park Visitor Center,Movies Under The Stars: Singing In The Rain,93,Tue,20:00,less than avg,0
+8/22/18,Manhattan,Playground,Booker T. Washington Playground,Movies Under the Stars: Thor Ragnarok,16,Wed,20:00,less than avg,0
+8/22/18,Brooklyn,Playground,Harry Maze Playground,"Movies Under the Stars  "" Black Panther """,60,Wed,0:00,less than avg,0
+8/22/18,Bronx,Park,Concrete Plant Park,Movies Under The Stars: Star Wars: The Last Jedi,60,Wed,20:00,less than avg,0
+8/22/18,Queens,Park,Unisphere - FMCP,"Movies Under the Stars ""Star Wars: The Last Jedi""",72,Wed,20:30,less than avg,0
+8/22/18,Staten Island,Recreation Center,Greenbelt Recreation Center,Movies Under the Stars: His Girl Friday,248,Wed,20:30,more than avg,1
+8/23/18,Manhattan,Playground,Alfred E. Smith Playground,Movies Under the Stars: Despicable Me 3,50,Thu,20:00,less than avg,0
+8/23/18,Brooklyn,Park,Canarsie Park,"Movies Under the Stars "" Pan the music Oddessy""",95,Thu,20:00,less than avg,0
+8/23/18,Staten Island,Park,Clove Lakes Park,Movies Under the Stars: The Goonies,95,Thu,20:00,less than avg,0
+8/24/18,Manhattan,Recreation Center,Hansborough Recreation Center,Movies Under the Stars: Daniel Le's The Butler,52,Fri,20:00,less than avg,0
+8/24/18,Bronx,Other,Orchard Beach,Movies Under The Stars: Black Panther,75,Fri,20:00,less than avg,0
+8/24/18,Manhattan,Playground,Carmansville Playground,Movies Under the Stars: Spider-Man Homecoming,137,Fri,20:00,more than avg,1
+8/24/18,Staten Island,Park,Seaside Wildlife Nature Park,Movies Under the Stars: Tomb Raider,175,Fri,20:00,more than avg,1
+8/24/18,Queens,Park,Crocheron Park,"Movies Under the Stars ""Despicable Me 3""",248,Fri,20:30,more than avg,1
+8/24/18,Brooklyn,Park,Prospect Park,"Movies Under the Stars : Caribbean Film Festival""",248,Fri,20:00,more than avg,1
+8/24/18,Staten Island,Park,Westerleigh Park,Movies Under the Stars: Paddington,500,Fri,20:00,more than avg,1
+8/25/18,Bronx,Park,Henry Hudson Park,Movies Under The Stars: Daddy's Home 2,35,Sat,20:00,less than avg,0
+8/25/18,Manhattan,Playground,Martin Luther Kings JR Playground,Movies Under the Stars: A Balletrina's Tale,35,Sat,18:00,less than avg,0
+8/25/18,Staten Island,Park,Cedar Grove,Movies Under the Stars: Descendants 2,35,Sat,0:00,less than avg,0
+8/25/18,Brooklyn,Park,Brower Park,"Movies Under the Stars "" Marley""",52,Sat,20:00,less than avg,0
+8/25/18,Queens,Park,Park of the Americas,"Movies Under the Stars ""Zootopia""",55,Sat,20:30,less than avg,0
+8/25/18,Staten Island,Park,CPL. Thompson Park,Movies Under the Stars: The Fate of the Furious,60,Sat,20:00,less than avg,0
+8/25/18,Staten Island,Park,Cedar Grove,Movies Under the Stars:,95,Sat,20:00,less than avg,0
+8/26/18,Brooklyn,Park,Kelly Park,"Movies Under the Stars "" The Lion King""",100,Sun,20:00,less than avg,0
+8/26/18,Queens,Other,Beach 94th Street,"Movies Under the Stars ""Princess Bride""",146,Sun,20:30,more than avg,1
+8/27/18,Bronx,Playground,Melrose Playground,Movies Under The Stars: Avenger's: Infinity Wars,16,Mon,20:00,less than avg,0
+8/27/18,Brooklyn,Playground,Thomas Greene Playground,"Movies Under the Stars "" Diary of a Wimpy kid""",77,Mon,20:00,less than avg,0
+8/27/18,Queens,Park,Highland Park,"Movies Under the Stars ""Coco""",94,Mon,20:30,less than avg,0
+8/28/18,Queens,Park,Wayanda Park,"Movies Under the Stars ""Avengers: Infinity War""",0,Tue,20:30,less than avg,0
+8/28/18,Manhattan,Playground,Sol Lain Playground,Movies Under the Stars - Isle of Dogs,29,Tue,20:00,less than avg,0
+8/28/18,Brooklyn,Park,Paerdegat Park,Movies Under the Stars : The Lego Ninjago Movie,58,Tue,20:00,less than avg,0
+8/29/18,Manhattan,Park,Morningside Park,Movies Under the Stars - Jumanji,35,Wed,20:00,less than avg,0
+8/29/18,Staten Island,Recreation Center,Greenbelt Recreation Center,Movies Under the Stars: Bringing up Baby,60,Wed,20:00,less than avg,0
+8/29/18,Brooklyn,Playground,Colonel David Marcus Playground,"Movies Under the Stars "" Despicable Me 3""",60,Wed,20:00,less than avg,0
+8/29/18,Staten Island,Recreation Center,Greenbelt Recreation Center,Movies Under the Stars: Bringing up Baby,94,Wed,20:00,less than avg,0
+8/29/18,Queens,Park,Grover Cleveland,"Movies Under the Stars ""Coco""",100,Wed,20:30,less than avg,0
+8/30/18,Staten Island,Park,Timoshenko,Movies Under the Stars: The Wizard of Oz,52,Thu,20:00,less than avg,0
+8/30/18,Bronx,Playground,Allerton Playground,Movies Under The Stars: The Jungle Book,58,Thu,19:30,less than avg,0
+8/30/18,Manhattan,Park,Washington Square Park,Movies Under the Stars - Autumn Sonata,855,Thu,20:00,more than avg,1
+8/31/18,Staten Island,Park,Bloomingdale Park,Movies Under the Stars: Star Wars: The Force Awakens,50,Fri,20:00,less than avg,0
+8/31/18,Bronx,Recreation Center,Williamsbridge Oval Recreation Center,Movies Under The Stars: Coco,52,Fri,19:30,less than avg,0
+8/31/18,Queens,Park,Addabbo,"Movies Under the Stars ""Lego: Batman""",72,Fri,20:30,less than avg,0
+8/31/18,Manhattan,Park,J. Hood Wright Park,Movies Under the Stars - Sherlock Gnomes,77,Fri,18:00,less than avg,0
+8/31/18,Brooklyn,Park,Maria Hernandez Park,"Movies Under the Stars "" Teenage Mutant Ninja Turtles""",93,Fri,20:00,less than avg,0
+9/1/18,Queens,Playground,Ehrenreich/Austin Playground,"Movies Under the Stars ""Lego: Batman""",15,Sat,20:30,less than avg,0
+9/1/18,Staten Island,Recreation Center,Ocean Breeze Track & Field Athletic Complex,Movies Under the Stars: Charlie and the Chocolate Factory,15,Sat,12:30,less than avg,0
+9/1/18,Bronx,Park,Joyce Kilmer Park,Movies Under The Stars: Avenger's: Age Of Ultron,77,Sat,19:30,less than avg,0
+9/1/18,Manhattan,Playground,Frederick Douglass Playground,Movies Under the Stars - Wrinkle in Time,212,Sat,20:00,more than avg,1
+9/2/18,Queens,Playground,Yellowstone Playground,"Movies Under the Stars ""The Little Mermaid""",93,Sun,20:30,less than avg,0
+9/4/18,Manhattan,Park,Washington Market Park,Movies Under the Stars - A Wrinkle in Time,35,Tue,19:30,less than avg,0
+9/5/18,Manhattan,Playground,St. Nicholas Playground South,Movies Under the Stars - The Lego Batman Movie,52,Wed,19:30,less than avg,0
+9/5/18,Manhattan,Playground,Sheltering Arms Playground,Movies Under the Stars - A Wrinkle in Time,60,Wed,19:30,less than avg,0
+9/6/18,Bronx,Playground,Flynn Playground,Movies Under The Stars: Space Jam,52,Thu,19:30,less than avg,0
+9/6/18,Queens,Other,Beach 94th Street,Movies Under the Stars,52,Thu,20:30,less than avg,0
+9/7/18,Brooklyn,Park,Herbert Von King Park,"Movies Under the Stars "" School Daze""",50,Fri,20:00,less than avg,0
+9/7/18,Manhattan,Park,St. Nicholas Park,"Movies Under the Stars - Love, Beats, Rhymes",58,Fri,19:30,less than avg,0
+9/7/18,Manhattan,Recreation Center,Hansborough Recreation Center,Movies Under the Stars - Black Panther,60,Fri,19:30,less than avg,0
+9/7/18,Bronx,Park,Concrete Plant Park,Movies Under The Stars: A Wrinkle In Time,94,Fri,19:30,less than avg,0
+9/7/18,Queens,Playground,Paul Raimonda,"Movies Under the Stars ""Brave""",137,Fri,20:30,more than avg,1
+9/8/18,Bronx,Playground,Stars & Stripes Playground,Movies Under The Stars: Black Panther,52,Sat,19:30,less than avg,0
+9/8/18,Bronx,Park,Vidalia Park,Movies Under The Stars: Black Panther,52,Sat,19:30,less than avg,0
+9/8/18,Manhattan,Park,Carl Schurz Park,Movies Under the Stars - A Wrinkle in Time,52,Sat,19:30,less than avg,0
+9/8/18,Queens,Playground,St. Albans,Movies Under the Stars,55,Sat,20:30,less than avg,0
+9/9/18,Queens,Park,Elmhurst,Movies Under the Stars,52,Sun,20:30,less than avg,0
+9/10/18,Queens,Park,Baisley Pond,Movies Under the Stars,52,Mon,20:30,less than avg,0
+9/12/18,Manhattan,Recreation Center,Pelham Fritz Recreation Center,Movies Under the Stars - Drumline,52,Wed,19:30,less than avg,0
+9/13/18,Manhattan,Playground,Raoul Wallemberg Playground,Movies Under the Stars - Smurfs: The Lost Village,72,Thu,19:30,less than avg,0
+9/13/18,Bronx,Other,Belmont Field,Movies Under The Stars: Captain Underpants,172,Thu,19:15,more than avg,1
+9/14/18,Queens,Park,Brookville Park,"Movies Under the Stars ""Coco""",200,Fri,20:00,more than avg,1
+9/14/18,Bronx,Park,Van Cortlandt Park,Movies Under The Stars: Black Panther,248,Fri,19:00,more than avg,1
+9/15/18,Manhattan,Playground,Matthews - Palmer Playground,Movies Under the Stars - Rogue One: A Star Wars Story,94,Sat,19:30,less than avg,0
+9/15/18,Queens,Playground,Ehrenreich/Austin Playground,"Movies Under the Stars ""Kubo and the Two Strings""",122,Sat,20:00,more than avg,1
+9/19/18,Manhattan,Playground,Poor Richard's Playground,Movies Under the Stars - Space Jam,94,Wed,19:30,less than avg,0
+9/20/18,Manhattan,Playground,Corlears Hook Playground,Movies Under the Stars - The Greatest Showman,52,Thu,19:30,less than avg,0
+9/20/18,Bronx,Playground,Slattery Playground,Movies Under The Stars: Black Panther,60,Thu,19:00,less than avg,0
+9/21/18,Manhattan,Playground,Courtney Callender Playground,Movies Under the Stars - Toy Story,0,Fri,19:30,less than avg,0
+9/22/18,Manhattan,Playground,Baruch Playground,Movies Under the Stars - Black Panther,146,Sat,19:30,more than avg,1

@@ -1,0 +1,16 @@
+Borough,LocationType,day,time,transform
+Bronx,Other,Fri,0:00,0
+Brooklyn,Park,Mon,6:00,1
+Manhattan,Playground,Sat,8:30,2
+Queens,Recreation Center,Sun,11:00,3
+Staten Island,,Thu,12:30,4
+,,Tue,18:00,5
+,,Wed,19:00,6
+,,,19:15,7
+,,,19:30,8
+,,,20:00,9
+,,,20:10,10
+,,,20:15,11
+,,,20:25,12
+,,,20:30,13
+,,,21:00,14
